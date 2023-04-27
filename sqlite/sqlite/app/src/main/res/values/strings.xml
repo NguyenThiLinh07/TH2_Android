@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DEMO</string>
+    <string-array name="category">
+        <item>Mua sắm</item>
+        <item>Tiền nhà</item>
+        <item>Tiền ăn</item>
+        <item>Tiền điện</item>
+        <item>Tiền nước</item>
+        <item>Đi lại</item>
+    </string-array>
+</resources>
